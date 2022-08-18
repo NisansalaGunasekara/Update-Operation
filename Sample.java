@@ -29,7 +29,7 @@ public class delete_update extends AppCompatActivity {
       
         
        }
-   
+   // Link data base
    }
 
 
