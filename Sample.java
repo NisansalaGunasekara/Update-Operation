@@ -26,6 +26,7 @@ public class delete_update extends AppCompatActivity {
        Weight weight = new Weight(); 
        weight.setWeightAmount(mweightAmount_editText.getText().toString()); 
        weight.setWeightDate(mweightDate_editText.getText().toString());
+      
         
        }
    
@@ -33,3 +34,5 @@ public class delete_update extends AppCompatActivity {
 
 
 }
+                                
+                             
